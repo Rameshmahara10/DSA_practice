@@ -3,8 +3,7 @@
 **Link to problem:** [LeetCode - Reverse integer](https://leetcode.com/problems/reverse-integer/)
 
 ## 💡 Description:
-Write a function that reverses a integer. The input  is given as an array of characters `s`.
-
+Write a function that reverses a integer. 
 ## 🧠 Solution (Java):
 ```java
 class Solution {
