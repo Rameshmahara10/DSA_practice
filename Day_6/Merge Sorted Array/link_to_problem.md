@@ -5,6 +5,6 @@
 [LeetCode - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 
 ## 💡 Description:
-Given an array arr[], check whether it is sorted in non-decreasing order. Return true if it is sorted otherwise false.
+Merge nums1 and nums2 into a single array sorted in non-decreasing order..
 ## 🧠 Solution:
 👉 [Click here to view the Java solution](./code.java)
